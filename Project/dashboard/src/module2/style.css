@@ -1,0 +1,35 @@
+.my-grid {
+    background-color: rgb(213, 240, 249);
+    border: 1px solid gray;
+    border-radius: 20px;
+    height: '100%'
+  }
+  
+.Bg1{
+    background-image:url("../../public/gplay.png");
+    /* color: rgb(166, 255, 137); */
+  }
+.Bg2{
+    background-image:url("../../public/mirrored-squares.png");
+    /* color: rgb(166, 255, 137); */
+  }
+button.Bg2 {
+    
+    background-color: #eeefee;
+    background-image: url("../../public/mirrored-squares.png");
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Shadow */
+  }
+  
+
+  .sensor-card {
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .sensor-chart canvas {
+    width: 100%;
+    height: auto;
+  }
+  
