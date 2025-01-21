@@ -1,0 +1,8 @@
+{
+    "Temperature": [24, 30],
+    "PH": [6.5, 9],
+    "Oxygen": [3, 6],
+    "Turbidity": [30, 80],
+    "Ammonia": [0.1, 2]
+  }
+  
